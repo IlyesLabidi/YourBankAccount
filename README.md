@@ -15,3 +15,10 @@ Ein Admin Kann,Professor Liste bearbeiten ( create, update, delete), und auch  F
 *SpringMVCProjekt:
 es ist ein Front end JEE web app basiert auf SpringMVC Framework.
 die App ist ein Deom für ein Bewerbung Portal für Studenten Als Software Entwickler.
+
+*YourBankAccount:
+YourBankAccount ist ein spring Boot demo von Online Banking.
+Die App hat zwei User , entweder client oder Admin.
+Der Client könnte eine oder mehrere Konto("compte") haben, und ein Konto könnte entweder sparkonto(CompteEpargne) oder 
+Girokonto("CompteCourant") sein.
+Der Client könnte mehrer Operation machen , und ein Operation könnte entweder Einzahlung(versement) oder Auszahlung(retrait).
